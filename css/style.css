@@ -1,5 +1,6 @@
 body {
     background: #34495e;
+
   }
   
   * {
@@ -11,7 +12,7 @@ body {
   .main-section {
     background: transparent;
     max-width: 500px;
-    width: 90%;
+    width: 92%;
     height: 500px;
     margin: 30px auto;
     border-radius: 10px;
